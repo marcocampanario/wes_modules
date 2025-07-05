@@ -1,11 +1,11 @@
 ---
-title: "Human Genome Variation Lab"
+title: "Curso de Genômica Humana - Análise de dados de WES"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Description of Course"
+description: "Descrição do curso"
 favicon: assets/favicon.ico
 output:
     bookdown::word_document2:
@@ -14,7 +14,7 @@ output:
 
 # Homepage
 
-This is the course homepage and digital textbook for Human Genome Variation with Computational Lab (`AS.020.321`).
+Essa é a página inicial e caderno virtual para o Curso de Genômica Humana do ICC (`AS.020.321`).
 
 #### Instructor
 
